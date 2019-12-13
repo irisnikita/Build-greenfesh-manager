@@ -1,0 +1,2 @@
+(this.webpackJsonpgreenfeshmanager=this.webpackJsonpgreenfeshmanager||[]).push([[4],{363:function(e,n,t){"use strict";t.r(n);var a=t(36),r=t(37),c=t(39),s=t(38),u=t(40),i=t(0),o=t.n(i),h=function(e){function n(){return Object(a.a)(this,n),Object(c.a)(this,Object(s.a)(n).apply(this,arguments))}return Object(u.a)(n,e),Object(r.a)(n,[{key:"render",value:function(){return o.a.createElement("div",null,"Hello")}}]),n}(i.Component);n.default=h}}]);
+//# sourceMappingURL=4.1ed69636.chunk.js.map
